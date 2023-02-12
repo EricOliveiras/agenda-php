@@ -42,8 +42,7 @@
           </a>
           <a 
             href="<?php echo $BASE_URL; ?>create.php" 
-            class="nav-link active" 
-            id="home-link"
+            class="nav-link active"
           >
             Adicionar Coontato
           </a>
